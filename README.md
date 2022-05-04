@@ -17,7 +17,7 @@
 <br> 1. Safety and Security
 <br> 2. Clarity 
 <br> 3. Approachability
-<br? 4. Developer Experience
+<br> 4. Developer Experience
 <br> 5. Intuiting Ownership with Resources
 
 ### In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?
